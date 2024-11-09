@@ -33,7 +33,7 @@ An organized list of available job opportunities tailored for different user rol
 **Sign In Page**  
 Secure login interface for platform access.
 
-![Sign In Page](https://user-images.githubusercontent.com/83655913/233127694-91871440-957e-4c7f-bfac-daafee95a890.png)
+![Sign In Page](3.png)
 
 **Registration Panel**  
 User-friendly registration interface for new users.
