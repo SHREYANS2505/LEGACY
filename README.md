@@ -28,7 +28,7 @@ A snapshot of the landing page that provides an overview of Legacy’s mission a
 **Jobs Portal Page**  
 An organized list of available job opportunities tailored for different user roles.
 
-![Jobs Portal Page](https://user-images.githubusercontent.com/83655913/233127537-4176fa76-e48c-47da-a1cb-5da599b667b5.png)
+![Jobs Portal Page](2.png)
 
 **Sign In Page**  
 Secure login interface for platform access.
