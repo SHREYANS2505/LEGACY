@@ -45,10 +45,6 @@ Dashboard for Admins to manage job postings, applications, and user access.
 
 ![Admin Dashboard](5.png)
 
-**Employer Dashboard**  
-Employer-focused dashboard for managing job postings and applicant data.
-
-![Employer Dashboard](13.jpeg)
 
 **Jobseeker Dashboard**  
 Jobseeker interface with tools for job search and application management.
@@ -57,4 +53,5 @@ Jobseeker interface with tools for job search and application management.
 
 **Referal System**
 
+![Employer Dashboard](9.png)
 ![Referal System](10.png)
