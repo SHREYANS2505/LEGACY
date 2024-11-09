@@ -48,12 +48,12 @@ Dashboard for Admins to manage job postings, applications, and user access.
 **Employer Dashboard**  
 Employer-focused dashboard for managing job postings and applicant data.
 
-![Employer Dashboard](https://user-images.githubusercontent.com/83655913/233123671-769dda2a-27b1-4fc0-a33e-a7c4da309773.png)
+![Employer Dashboard](13.jpeg)
 
 **Jobseeker Dashboard**  
 Jobseeker interface with tools for job search and application management.
 
-![Jobseeker Dashboard](https://user-images.githubusercontent.com/83655913/233124233-1497c8b8-16b8-4d0f-9bf4-8e9d330ef958.png)
+![Jobseeker Dashboard](14.jpeg)
 
 **Referal System**
 
