@@ -54,3 +54,7 @@ Employer-focused dashboard for managing job postings and applicant data.
 Jobseeker interface with tools for job search and application management.
 
 ![Jobseeker Dashboard](https://user-images.githubusercontent.com/83655913/233124233-1497c8b8-16b8-4d0f-9bf4-8e9d330ef958.png)
+
+**Referal System**
+
+![Referal System](10.png)
