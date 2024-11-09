@@ -23,7 +23,7 @@ Legacy is a platform dedicated to helping students and recent graduates streamli
 **Landing Page**  
 A snapshot of the landing page that provides an overview of Legacy’s mission and features.
 
-![Landing Page](https://user-images.githubusercontent.com/83655913/233121917-443ee6ec-1521-492c-a964-d93f72bbd67d.png)
+![Landing Page]([https://user-images.githubusercontent.com/83655913/233121917-443ee6ec-1521-492c-a964-d93f72bbd67d.png](https://github.com/SHREYANS2505/LEGACY/blob/main/1.png))
 
 **Jobs Portal Page**  
 An organized list of available job opportunities tailored for different user roles.
