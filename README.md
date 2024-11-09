@@ -43,7 +43,7 @@ User-friendly registration interface for new users.
 **Admin Dashboard**  
 Dashboard for Admins to manage job postings, applications, and user access.
 
-![Admin Dashboard](https://user-images.githubusercontent.com/83655913/233123852-14843874-7190-42d7-92fa-f02c53b1a238.png)
+![Admin Dashboard](5.png)
 
 **Employer Dashboard**  
 Employer-focused dashboard for managing job postings and applicant data.
