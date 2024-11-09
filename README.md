@@ -53,7 +53,7 @@ Jobseeker interface with tools for job search and application management.
 
 **Referal Template**
 
-![Employer Dashboard](9.png)
+![Employer Dashboard](9.jpeg)
 
 **Referal System**
 
