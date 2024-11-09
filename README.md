@@ -38,7 +38,7 @@ Secure login interface for platform access.
 **Registration Panel**  
 User-friendly registration interface for new users.
 
-![Registration Panel](https://user-images.githubusercontent.com/83655913/233127784-ecc4f5b3-e7c8-4d41-83c8-638eb1055f44.png)
+![Registration Panel](4.png)
 
 **Admin Dashboard**  
 Dashboard for Admins to manage job postings, applications, and user access.
