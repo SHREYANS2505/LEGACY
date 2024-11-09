@@ -51,7 +51,10 @@ Jobseeker interface with tools for job search and application management.
 
 ![Jobseeker Dashboard](14.jpeg)
 
-**Referal System**
+**Referal Template**
 
 ![Employer Dashboard](9.png)
+
+**Referal System**
+
 ![Referal System](10.png)
