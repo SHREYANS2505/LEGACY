@@ -1,4 +1,4 @@
-# Legacy
+# hello Legacy
 
 Legacy is a platform dedicated to helping students and recent graduates streamline their job search by providing a centralized hub for job listings, referrals, and career connections.
 
